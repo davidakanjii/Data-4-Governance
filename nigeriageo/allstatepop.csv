@@ -1,0 +1,775 @@
+state_name,lga_name,pop,pop(10000)
+Abia,Aba North,245825,24.5825
+Abia,Aba South,380212,38.0212
+Abia,Arochukwu,146355,14.6355
+Abia,Bende,236493,23.6493
+Abia,Ikwuano,153495,15.3495
+Abia,Isiala-Ngwa North,231793,23.1793
+Abia,Isiala-Ngwa South,267529,26.7529
+Abia,Isuikwuato,185896,18.5896
+Abia,Obi Nwga,463748,46.3748
+Abia,Ohafia,199577,19.9577
+Abia,Osisioma Ngwa,558678,55.8678
+Abia,Ugwunagbo,86628,8.6628
+Abia,Ukwa East,67471,6.7471
+Abia,Ukwa West,106843,10.6843
+Abia,Umu-Nneochi,220615,22.0615
+Abia,Umuahia North,308069,30.8069
+Abia,Umuahia South,224345,22.4345
+Adamawa,Demsa,150470,15.047
+Adamawa,Fufore,239980,23.998
+Adamawa,Ganye,192932,19.2932
+Adamawa,Girei,181187,18.1187
+Adamawa,Gombi,200933,20.0933
+Adamawa,Guyuk,136844,13.6844
+Adamawa,Hong,231758,23.1758
+Adamawa,Jada,197999,19.7999
+Adamawa,Lamurde,78434,7.8434
+Adamawa,Madagali,128575,12.8575
+Adamawa,Maiha,94183,9.4183
+Adamawa,Mayo-Belwa,197335,19.7335
+Adamawa,Michika,158182,15.8182
+Adamawa,Mubi North,180307,18.0307
+Adamawa,Mubi South,170740,17.074
+Adamawa,Numan,80331,8.0331
+Adamawa,Shelleng,121762,12.1762
+Adamawa,Song,239863,23.9863
+Adamawa,Toungo,49834,4.9834
+Adamawa,Yola North,206303,20.6303
+Adamawa,Yola South,368752,36.8752
+Akwa Ibom,Abak,161657,16.1657
+Akwa Ibom,Eastern Obolo,19312,1.9312
+Akwa Ibom,Eket,231351,23.1351
+Akwa Ibom,Esit Eket,53616,5.3616
+Akwa Ibom,Essien Udim,115335,11.5335
+Akwa Ibom,Etim Ekpo,91539,9.1539
+Akwa Ibom,Etinan,78133,7.8133
+Akwa Ibom,Ibeno,44223,4.4223
+Akwa Ibom,Ibesikpo Asutan,202049,20.2049
+Akwa Ibom,Ibiono Ibom,104323,10.4323
+Akwa Ibom,Ika,37502,3.7502
+Akwa Ibom,Ikono,116096,11.6096
+Akwa Ibom,Ikot Abasi,124117,12.4117
+Akwa Ibom,Ikot Ekpene,227298,22.7298
+Akwa Ibom,Ini,96777,9.6777
+Akwa Ibom,Itu,141060,14.106
+Akwa Ibom,Mbo,69093,6.9093
+Akwa Ibom,Mkpat Enin,82999,8.2999
+Akwa Ibom,Nsit Atai,46887,4.6887
+Akwa Ibom,Nsit Ibom,55409,5.5409
+Akwa Ibom,Nsit Ubium,88812,8.8812
+Akwa Ibom,Obot Akara,74363,7.4363
+Akwa Ibom,Okobo,61471,6.1471
+Akwa Ibom,Onna,69202,6.9202
+Akwa Ibom,Oron,119313,11.9313
+Akwa Ibom,Oruk Anam,136993,13.6993
+Akwa Ibom,Udung Uko,20600,2.06
+Akwa Ibom,Ukanafun,107807,10.7807
+Akwa Ibom,Uruan,117372,11.7372
+Akwa Ibom,Urue Offong-Oruko,48854,4.8854
+Akwa Ibom,Uyo,542051,54.2051
+Anambra,Aguata,436697,43.6697
+Anambra,Anambra East,102937,10.2937
+Anambra,Anambra West,27477,2.7477
+Anambra,Anaocha,164136,16.4136
+Anambra,Awka North,65268,6.5268
+Anambra,Awka South,243014,24.3014
+Anambra,Ayamelum,75585,7.5585
+Anambra,Dunukofia,76836,7.6836
+Anambra,Ekwusigo,247285,24.7285
+Anambra,Idemili North,575469,57.5469
+Anambra,Idemili South,241856,24.1856
+Anambra,Ihiala,357811,35.7811
+Anambra,Njikoka,192144,19.2144
+Anambra,Nnewi North,221115,22.1115
+Anambra,Nnewi South,212752,21.2752
+Anambra,Ogbaru,160155,16.0155
+Anambra,Onitsha North,202210,20.221
+Anambra,Onitsha South,84706,8.4706
+Anambra,Orumba North,117156,11.7156
+Anambra,Orumba South,169796,16.9796
+Anambra,Oyi,254356,25.4356
+Bauchi,Alkaleri,362219,36.2219
+Bauchi,Bauchi,1106400,110.64
+Bauchi,Bogoro,73421,7.3421
+Bauchi,Dambam,186967,18.6967
+Bauchi,Darazo,374451,37.4451
+Bauchi,Dass,68764,6.8764
+Bauchi,Gamawa,324235,32.4235
+Bauchi,Ganjuwa,492865,49.2865
+Bauchi,Giade,194223,19.4223
+Bauchi,Itas-Gadau,269535,26.9535
+Bauchi,Jama'are,78399,7.8399
+Bauchi,Katagum,509023,50.9023
+Bauchi,Kirfi,169864,16.9864
+Bauchi,Misau,254129,25.4129
+Bauchi,Ningi,402363,40.2363
+Bauchi,Shira,301453,30.1453
+Bauchi,Tafawa-Balewa,224144,22.4144
+Bauchi,Toro,427406,42.7406
+Bauchi,Warji,100757,10.0757
+Bauchi,Zaki,258412,25.8412
+Bayelsa,Brass,55998,5.5998
+Bayelsa,Ekeremor,102514,10.2514
+Bayelsa,Kolokuma-Opokuma,48605,4.8605
+Bayelsa,Nembe,32005,3.2005
+Bayelsa,Ogbia,154406,15.4406
+Bayelsa,Sagbama,103732,10.3732
+Bayelsa,Southern Ijaw,136500,13.65
+Bayelsa,Yenegoa,466192,46.6192
+Benue,Ado,97320,9.732
+Benue,Agatu,97127,9.7127
+Benue,Apa,156849,15.6849
+Benue,Buruku,203786,20.3786
+Benue,Gboko,366013,36.6013
+Benue,Guma,137861,13.7861
+Benue,Gwer East,173199,17.3199
+Benue,Gwer West,99899,9.9899
+Benue,Katsina-Ala,411121,41.1121
+Benue,Konshisha,191630,19.163
+Benue,Kwande,374194,37.4194
+Benue,Logo,289361,28.9361
+Benue,Makurdi,484382,48.4382
+Benue,Obi,89983,8.9983
+Benue,Ogbadibo,123110,12.311
+Benue,Ohimini,90467,9.0467
+Benue,Oju,123143,12.3143
+Benue,Okpokwu,132299,13.2299
+Benue,Oturkpo,159855,15.9855
+Benue,Tarka,53305,5.3305
+Benue,Ukum,339565,33.9565
+Benue,Ushongo,124190,12.419
+Benue,Vandeikya,129127,12.9127
+Borno,Abadam,135760,13.576
+Borno,Askira-Uba,281027,28.1027
+Borno,Bama,250440,25.044
+Borno,Bayo,168993,16.8993
+Borno,Biu,289776,28.9776
+Borno,Chibok,118923,11.8923
+Borno,Damboa,190951,19.0951
+Borno,Dikwa,102234,10.2234
+Borno,Gubio,171860,17.186
+Borno,Guzamala,127734,12.7734
+Borno,Gwoza,276181,27.6181
+Borno,Hawul,253530,25.353
+Borno,Jere,445745,44.5745
+Borno,Kaga,130899,13.0899
+Borno,Kala-Balge,67193,6.7193
+Borno,Konduga,194741,19.4741
+Borno,Kukawa,136618,13.6618
+Borno,Kwaya Kusar,132714,13.2714
+Borno,Mafa,141063,14.1063
+Borno,Magumeri,272045,27.2045
+Borno,Maiduguri,635562,63.5562
+Borno,Marte,154939,15.4939
+Borno,Mobbar,192502,19.2502
+Borno,Monguno,186832,18.6832
+Borno,Ngala,145226,14.5226
+Borno,Nganzai,143482,14.3482
+Borno,Shani,229340,22.934
+Cross River,Abi,104225,10.4225
+Cross River,Akamkpa,113084,11.3084
+Cross River,Akpabuyo,150813,15.0813
+Cross River,Bakassi,19337,1.9337
+Cross River,Bekwarra,206948,20.6948
+Cross River,Biase,102120,10.212
+Cross River,Boki,186000,18.6
+Cross River,Calabar Municipal,116265,11.6265
+Cross River,Calabar South,468435,46.8435
+Cross River,Etung,56485,5.6485
+Cross River,Ikom,207819,20.7819
+Cross River,Obanliku,139016,13.9016
+Cross River,Obubra,139957,13.9957
+Cross River,Obudu,169042,16.9042
+Cross River,Odukpani,229781,22.9781
+Cross River,Ogoja,181443,18.1443
+Cross River,Yakurr,166451,16.6451
+Cross River,Yala,212311,21.2311
+Delta,Aniocha North,115126,11.5126
+Delta,Aniocha South,175655,17.5655
+Delta,Bomadi,38412,3.8412
+Delta,Burutu,56574,5.6574
+Delta,Ethiope East,153983,15.3983
+Delta,Ethiope West,217226,21.7226
+Delta,Ika North East,138841,13.8841
+Delta,Ika South,212473,21.2473
+Delta,Isoko North,144939,14.4939
+Delta,Isoko South,119714,11.9714
+Delta,Ndokwa East,63546,6.3546
+Delta,Ndokwa West,172684,17.2684
+Delta,Okpe,100075,10.0075
+Delta,Oshimili North,238649,23.8649
+Delta,Oshimili South,197978,19.7978
+Delta,Patani,27791,2.7791
+Delta,Sapele,234314,23.4314
+Delta,Udu,200128,20.0128
+Delta,Ughelli North,316911,31.6911
+Delta,Ughelli South,130100,13.01
+Delta,Ukwuani,112091,11.2091
+Delta,Uvwie,219953,21.9953
+Delta,Warri North,35260,3.526
+Delta,Warri South-West,7330,0.733
+Delta,Warri South,235395,23.5395
+Ebonyi,Abakaliki,209436,20.9436
+Ebonyi,Afikpo North,179701,17.9701
+Ebonyi,Afikpo South,97847,9.7847
+Ebonyi,Ebonyi,339495,33.9495
+Ebonyi,Ezza North,103808,10.3808
+Ebonyi,Ezza South,111714,11.1714
+Ebonyi,Ikwo,355238,35.5238
+Ebonyi,Ishielu,137951,13.7951
+Ebonyi,Ivo,143742,14.3742
+Ebonyi,Izzi,486501,48.6501
+Ebonyi,Ohaozara,193927,19.3927
+Ebonyi,Ohaukwu,236377,23.6377
+Ebonyi,Onicha,175795,17.5795
+Edo,Akoko-Edo,126441,12.6441
+Edo,Egor,545307,54.5307
+Edo,Esan Central,108583,10.8583
+Edo,Esan North-East,177681,17.7681
+Edo,Esan South-East,75781,7.5781
+Edo,Esan West,157252,15.7252
+Edo,Etsako Central,79365,7.9365
+Edo,Etsako East,121198,12.1198
+Edo,Etsako West,223420,22.342
+Edo,Iguegben,53345,5.3345
+Edo,Ikpoba-Okha,826000,82.6
+Edo,Oredo,495685,49.5685
+Edo,Orhionmwon,142292,14.2292
+Edo,Ovia North-East,238743,23.8743
+Edo,Ovia South-West,113199,11.3199
+Edo,Owan East,97432,9.7432
+Edo,Owan West,71965,7.1965
+Edo,Uhunmwonde,366681,36.6681
+Ekiti,Ado-Ekiti,563308,56.3308
+Ekiti,Efon,55119,5.5119
+Ekiti,Ekiti East,111712,11.1712
+Ekiti,Ekiti South-West,67470,6.747
+Ekiti,Ekiti West,111332,11.1332
+Ekiti,Emure,64424,6.4424
+Ekiti,Gbonyin,91612,9.1612
+Ekiti,Ido-Osi,156108,15.6108
+Ekiti,Ijero,155668,15.5668
+Ekiti,Ikere,125810,12.581
+Ekiti,Ikole,148908,14.8908
+Ekiti,Ilejemeje,28279,2.8279
+Ekiti,Irepodun-Ifelodun,114916,11.4916
+Ekiti,Ise-Orun,82735,8.2735
+Ekiti,Moba,96585,9.6585
+Ekiti,Oye,99728,9.9728
+Enugu,Aninri,107066,10.7066
+Enugu,Awgu,150903,15.0903
+Enugu,Enugu East,328431,32.8431
+Enugu,Enugu North,265168,26.5168
+Enugu,Enugu South,203456,20.3456
+Enugu,Ezeagu,179742,17.9742
+Enugu,Igbo-Etiti,113134,11.3134
+Enugu,Igbo-Eze-North,108773,10.8773
+Enugu,Igbo-Eze-South,97396,9.7396
+Enugu,Isi-Uzo,111649,11.1649
+Enugu,Nkanu East,130291,13.0291
+Enugu,Nkanu West,96748,9.6748
+Enugu,Nsukka,370878,37.0878
+Enugu,Oji-River,89079,8.9079
+Enugu,Udenu,142061,14.2061
+Enugu,Udi,267391,26.7391
+Enugu,Uzo-Uwani,92695,9.2695
+"Fct, Abuja",Abaji,137510,13.751
+"Fct, Abuja",Bwari,728784,72.8784
+"Fct, Abuja",Gwagwalada,522133,52.2133
+"Fct, Abuja",Kuje,292353,29.2353
+"Fct, Abuja",Kwali,236750,23.675
+"Fct, Abuja",Municipal Area Council,1913132,191.3132
+Gombe,Akko,548030,54.803
+Gombe,Balanga,214770,21.477
+Gombe,Billiri,177842,17.7842
+Gombe,Dukku,256370,25.637
+Gombe,Funakaye,207208,20.7208
+Gombe,Gombe,285471,28.5471
+Gombe,Kaltungo,174806,17.4806
+Gombe,Kwami,300006,30.0006
+Gombe,Nafada,93526,9.3526
+Gombe,Shomgom,134735,13.4735
+Gombe,Yamaltu-Deba,468311,46.8311
+Imo,Aboh-Mbaise,294876,29.4876
+Imo,Ahiazu-Mbaise,246518,24.6518
+Imo,Ehime -Mbano,237419,23.7419
+Imo,Ezinihitte,227652,22.7652
+Imo,Ideato North,401331,40.1331
+Imo,Ideato South,134290,13.429
+Imo,Ihitte-Uboma,135299,13.5299
+Imo,Ikeduru,367992,36.7992
+Imo,Isiala Mbano,462750,46.275
+Imo,Isu,169808,16.9808
+Imo,Mbatoli,370474,37.0474
+Imo,Ngor-Okpala,280193,28.0193
+Imo,Njaba,254750,25.475
+Imo,Nkwerre,115169,11.5169
+Imo,Nwangele,233379,23.3379
+Imo,Obowo,218732,21.8732
+Imo,Oguta,140054,14.0054
+Imo,Ohaji-Egbema,331299,33.1299
+Imo,Okigwe,228654,22.8654
+Imo,Onuimo,132331,13.2331
+Imo,Orlu,397624,39.7624
+Imo,Orsu,222095,22.2095
+Imo,Oru East,273397,27.3397
+Imo,Oru West,244718,24.4718
+Imo,Owerri Municipal,276963,27.6963
+Imo,Owerri North,395070,39.507
+Imo,Owerri West,358703,35.8703
+Jigawa,Auyo,110535,11.0535
+Jigawa,Babura,318938,31.8938
+Jigawa,Biriniwa,199558,19.9558
+Jigawa,Birnin Kudu,501385,50.1385
+Jigawa,Buji,157120,15.712
+Jigawa,Dutse,463493,46.3493
+Jigawa,Gagarawa,85268,8.5268
+Jigawa,Garki,229456,22.9456
+Jigawa,Gumel,91314,9.1314
+Jigawa,Guri,108191,10.8191
+Jigawa,Gwaram,427416,42.7416
+Jigawa,Gwiwa,99627,9.9627
+Jigawa,Hadejia,104526,10.4526
+Jigawa,Jahun,307127,30.7127
+Jigawa,Kafin Hausa,314483,31.4483
+Jigawa,Kaugama,150990,15.099
+Jigawa,Kazaure,182651,18.2651
+Jigawa,Kiri Kasama,171061,17.1061
+Jigawa,Kiyawa,290124,29.0124
+Jigawa,Maigatari,153528,15.3528
+Jigawa,Malam Madori,202429,20.2429
+Jigawa,Miga,157856,15.7856
+Jigawa,Ringim,272606,27.2606
+Jigawa,Roni,106492,10.6492
+Jigawa,Sule Tankarkar,207111,20.7111
+Jigawa,Taura,195142,19.5142
+Jigawa,Yankwashi,90452,9.0452
+Kaduna,Birnin Gwari,439062,43.9062
+Kaduna,Chikun,702918,70.2918
+Kaduna,Giwa,377897,37.7897
+Kaduna,Igabi,825930,82.593
+Kaduna,Ikara,344838,34.4838
+Kaduna,Jaba,157052,15.7052
+Kaduna,Jema'A,258235,25.8235
+Kaduna,Kachia,338469,33.8469
+Kaduna,Kaduna North,312885,31.2885
+Kaduna,Kaduna South,305109,30.5109
+Kaduna,Kagarko,306590,30.659
+Kaduna,Kajuru,183671,18.3671
+Kaduna,Kaura,166793,16.6793
+Kaduna,Kauru,336285,33.6285
+Kaduna,Kubau,520847,52.0847
+Kaduna,Kudan,162828,16.2828
+Kaduna,Lere,555959,55.5959
+Kaduna,Makarfi,321632,32.1632
+Kaduna,Sabon Gari,320435,32.0435
+Kaduna,Sanga,214063,21.4063
+Kaduna,Soba,542500,54.25
+Kaduna,Zangon Kataf,360623,36.0623
+Kaduna,Zaria,565568,56.5568
+Kano,Ajingi,239620,23.962
+Kano,Albasu,213533,21.3533
+Kano,Bagwai,211456,21.1456
+Kano,Bebeji,248847,24.8847
+Kano,Bichi,445252,44.5252
+Kano,Bunkure,242175,24.2175
+Kano,Dala,483957,48.3957
+Kano,Dambatta,367983,36.7983
+Kano,Dawakin Kudu,382454,38.2454
+Kano,Dawakin Tofa,424209,42.4209
+Kano,Doguwa,193906,19.3906
+Kano,Fagge,291917,29.1917
+Kano,Gabasawa,262876,26.2876
+Kano,Garko,219544,21.9544
+Kano,Garun Malam,150436,15.0436
+Kano,Gaya,265273,26.5273
+Kano,Gezawa,399868,39.9868
+Kano,Gwale,825783,82.5783
+Kano,Gwarzo,327714,32.7714
+Kano,Kabo,142131,14.2131
+Kano,Kano Municipal,353764,35.3764
+Kano,Karaye,225782,22.5782
+Kano,Kibiya,146386,14.6386
+Kano,Kiru,312944,31.2944
+Kano,Kumbotso,997846,99.7846
+Kano,Kunchi,211941,21.1941
+Kano,Kura,186963,18.6963
+Kano,Madobi,192411,19.2411
+Kano,Makoda,206787,20.6787
+Kano,Minjibir,351216,35.1216
+Kano,Nassarawa,641461,64.1461
+Kano,Rano,184905,18.4905
+Kano,Rimin Gado,101292,10.1292
+Kano,Rogo,301983,30.1983
+Kano,Shanono,157863,15.7863
+Kano,Sumaila,371165,37.1165
+Kano,Takai,275062,27.5062
+Kano,Tarauni,295562,29.5562
+Kano,Tofa,123758,12.3758
+Kano,Tsanyawa,169730,16.973
+Kano,Tudun Wada,278654,27.8654
+Kano,Ungogo,888851,88.8851
+Kano,Warawa,194547,19.4547
+Kano,Wudil,214437,21.4437
+Katsina,Bakori,343485,34.3485
+Katsina,Batagarawa,282858,28.2858
+Katsina,Batsari,295853,29.5853
+Katsina,Baure,282913,28.2913
+Katsina,Bindawa,270062,27.0062
+Katsina,Charanchi,217790,21.779
+Katsina,Dan Musa,208162,20.8162
+Katsina,Dandume,195180,19.518
+Katsina,Danja,193836,19.3836
+Katsina,Daura,128285,12.8285
+Katsina,Dutsi,107272,10.7272
+Katsina,Dutsin Ma,306902,30.6902
+Katsina,Faskari,284888,28.4888
+Katsina,Funtua,390558,39.0558
+Katsina,Ingawa,208269,20.8269
+Katsina,Jibia,255796,25.5796
+Katsina,Kafur,330098,33.0098
+Katsina,Kaita,252804,25.2804
+Katsina,Kankara,353637,35.3637
+Katsina,Kankia,200213,20.0213
+Katsina,Katsina,644652,64.4652
+Katsina,Kurfi,178315,17.8315
+Katsina,Kusada,115261,11.5261
+Katsina,Mai'Adua,170187,17.0187
+Katsina,Malumfashi,380846,38.0846
+Katsina,Mani,309712,30.9712
+Katsina,Mashi,308927,30.8927
+Katsina,Matazu,158285,15.8285
+Katsina,Musawa,178816,17.8816
+Katsina,Rimi,303305,30.3305
+Katsina,Sabuwa,146364,14.6364
+Katsina,Safana,233431,23.3431
+Katsina,Sandamu,103431,10.3431
+Katsina,Zango,164025,16.4025
+Kebbi,Aleiro,64229,6.4229
+Kebbi,Arewa Dandi,249084,24.9084
+Kebbi,Argungu,227949,22.7949
+Kebbi,Augie,108215,10.8215
+Kebbi,Bagudu,347390,34.739
+Kebbi,Birnin Kebbi,422642,42.2642
+Kebbi,Bunza,167071,16.7071
+Kebbi,Dandi,150373,15.0373
+Kebbi,Fakai,136543,13.6543
+Kebbi,Gwandu,203207,20.3207
+Kebbi,Jega,194743,19.4743
+Kebbi,Kalgo,111760,11.176
+Kebbi,Koko-Besse,170600,17.06
+Kebbi,Maiyama,196150,19.615
+Kebbi,Ngaski,129342,12.9342
+Kebbi,Sakaba,132836,13.2836
+Kebbi,Shanga,183220,18.322
+Kebbi,Suru,190251,19.0251
+Kebbi,Wasagu-Danko,337428,33.7428
+Kebbi,Yauri,101747,10.1747
+Kebbi,Zuru,227102,22.7102
+Kogi,Adavi,272743,27.2743
+Kogi,Ajaokuta,114024,11.4024
+Kogi,Ankpa,260858,26.0858
+Kogi,Bassa,105979,10.5979
+Kogi,Dekina,398693,39.8693
+Kogi,Ibaji,66559,6.6559
+Kogi,Idah,35323,3.5323
+Kogi,Igalamela-Odolu,158820,15.882
+Kogi,Ijumu,100912,10.0912
+Kogi,Kabba-Bunu,142515,14.2515
+Kogi,Kogi,68992,6.8992
+Kogi,Lokoja,248124,24.8124
+Kogi,Mopa-Muro,40492,4.0492
+Kogi,Ofu,161174,16.1174
+Kogi,Ogori-Magongo,19591,1.9591
+Kogi,Okehi,49836,4.9836
+Kogi,Okene,191613,19.1613
+Kogi,Olamaboro,209984,20.9984
+Kogi,Omala,96744,9.6744
+Kogi,Yagba East,67100,6.71
+Kogi,Yagba West,56596,5.6596
+Kwara,Asa,136306,13.6306
+Kwara,Baruten,267679,26.7679
+Kwara,Edu,125798,12.5798
+Kwara,Ekiti,32179,3.2179
+Kwara,Ifelodun,117190,11.719
+Kwara,Ilorin East,700643,70.0643
+Kwara,Ilorin South,62562,6.2562
+Kwara,Ilorin West,345261,34.5261
+Kwara,Irepodun,104900,10.49
+Kwara,Isin,31856,3.1856
+Kwara,Kaiama,196831,19.6831
+Kwara,Moro,143596,14.3596
+Kwara,Offa,126926,12.6926
+Kwara,Oke Ero,33678,3.3678
+Kwara,Oyun,88495,8.8495
+Kwara,Pategi,77337,7.7337
+Lagos,Agege,289450,28.945
+Lagos,Ajeromi-Ifelodun,314223,31.4223
+Lagos,Alimosho,2079944,207.9944
+Lagos,Amuwo Odofin,377541,37.7541
+Lagos,Apapa,271369,27.1369
+Lagos,Badagry,663730,66.373
+Lagos,Epe,202902,20.2902
+Lagos,Eti Osa,493328,49.3328
+Lagos,Ibeju Lekki,302704,30.2704
+Lagos,Ifako-Ijaye,297182,29.7182
+Lagos,Ikeja,307584,30.7584
+Lagos,Ikorodu,1241907,124.1907
+Lagos,Kosofe,489893,48.9893
+Lagos,Lagos Island,44730,4.473
+Lagos,Lagos Mainland,269612,26.9612
+Lagos,Mushin,350626,35.0626
+Lagos,Ojo,695868,69.5868
+Lagos,Oshodi-Isolo,557312,55.7312
+Lagos,Shomolu,151658,15.1658
+Lagos,Surulere,118282,11.8282
+Nasarawa,Akwanga,100920,10.092
+Nasarawa,Awe,181481,18.1481
+Nasarawa,Doma,1051199,105.1199
+Nasarawa,Karu,715325,71.5325
+Nasarawa,Keana,114683,11.4683
+Nasarawa,Keffi,191252,19.1252
+Nasarawa,Kokona,232706,23.2706
+Nasarawa,Lafia,238549,23.8549
+Nasarawa,Nasarawa Egon,59682,5.9682
+Nasarawa,Nasarawa,331587,33.1587
+Nasarawa,Obi,255526,25.5526
+Nasarawa,Toto,131405,13.1405
+Nasarawa,Wamba,229804,22.9804
+Niger,Agaie,101623,10.1623
+Niger,Agwara,94014,9.4014
+Niger,Bida,192094,19.2094
+Niger,Borgu,346424,34.6424
+Niger,Bosso,243502,24.3502
+Niger,Chanchaga,373750,37.375
+Niger,Edati,46732,4.6732
+Niger,Gbako,149714,14.9714
+Niger,Gurara,90066,9.0066
+Niger,Katcha,156301,15.6301
+Niger,Kontagora,235331,23.5331
+Niger,Lapai,200333,20.0333
+Niger,Lavun,192371,19.2371
+Niger,Magama,296467,29.6467
+Niger,Mariga,373468,37.3468
+Niger,Mashegu,665585,66.5585
+Niger,Mokwa,249665,24.9665
+Niger,Munya,87478,8.7478
+Niger,Paikoro,209495,20.9495
+Niger,Rafi,274148,27.4148
+Niger,Rijau,216914,21.6914
+Niger,Shiroro,279214,27.9214
+Niger,Suleja,378903,37.8903
+Niger,Tafa,64666,6.4666
+Niger,Wushishi,107715,10.7715
+Ogun,Abeokuta North,480407,48.0407
+Ogun,Abeokuta South,421468,42.1468
+Ogun,Ado Odo-Ota,2181858,218.1858
+Ogun,Ewekoro,162392,16.2392
+Ogun,Ifo,1702206,170.2206
+Ogun,Ijebu East,251169,25.1169
+Ogun,Ijebu North East,71027,7.1027
+Ogun,Ijebu North,324306,32.4306
+Ogun,Ijebu Ode,276591,27.6591
+Ogun,Ikenne,161192,16.1192
+Ogun,Imeko Afon,124617,12.4617
+Ogun,Ipokia,213244,21.3244
+Ogun,Obafemi Owode,923165,92.3165
+Ogun,Odeda,306343,30.6343
+Ogun,Odogbolu,257517,25.7517
+Ogun,Ogun Waterside,60567,6.0567
+Ogun,Remo North,71986,7.1986
+Ogun,Shagamu,749083,74.9083
+Ogun,Yewa North,359098,35.9098
+Ogun,Yewa South,408282,40.8282
+Ondo,Akoko North East,158926,15.8926
+Ondo,Akoko North West,131583,13.1583
+Ondo,Akoko South East,42490,4.249
+Ondo,Akoko South West,157666,15.7666
+Ondo,Akure North,295889,29.5889
+Ondo,Akure South,628879,62.8879
+Ondo,Ese Odo,82564,8.2564
+Ondo,Idanre,195789,19.5789
+Ondo,Ifedore,487591,48.7591
+Ondo,Ilaje,181092,18.1092
+Ondo,Ile Oluji-Okeigbo,318441,31.8441
+Ondo,Irele,129109,12.9109
+Ondo,Odigbo,313697,31.3697
+Ondo,Okitipupa,220974,22.0974
+Ondo,Ondo East,30143,3.0143
+Ondo,Ondo West,247654,24.7654
+Ondo,Ose,149099,14.9099
+Ondo,Owo,322049,32.2049
+Osun,Atakunmosa East,62425,6.2425
+Osun,Atakunmosa West,80597,8.0597
+Osun,Ayedade,168276,16.8276
+Osun,Ayedire,81930,8.193
+Osun,Boluwaduro,55667,5.5667
+Osun,Boripe,217356,21.7356
+Osun,Ede North,123143,12.3143
+Osun,Ede South,132008,13.2008
+Osun,Egbedore,258518,25.8518
+Osun,Ejigbo,154443,15.4443
+Osun,Ife Central,177300,17.73
+Osun,Ife East,447689,44.7689
+Osun,Ife North,125852,12.5852
+Osun,Ife South,137429,13.7429
+Osun,Ifedayo,24143,2.4143
+Osun,Ifelodun,133774,13.3774
+Osun,Ila,105478,10.5478
+Osun,Ilesha East,212828,21.2828
+Osun,Ilesha West,293359,29.3359
+Osun,Irepodun,252,0.0252
+Osun,Irewole,163153,16.3153
+Osun,Isokan,105831,10.5831
+Osun,Iwo,314403,31.4403
+Osun,Obokun,116153,11.6153
+Osun,Odo Otin,157933,15.7933
+Osun,Ola Oluwa,57148,5.7148
+Osun,Olorunda,283264,28.3264
+Osun,Oriade,161228,16.1228
+Osun,Orolu,127309,12.7309
+Osun,Osogbo,268330,26.833
+Oyo,Afijio,124193,12.4193
+Oyo,Akinyele,466424,46.6424
+Oyo,Atiba,85458,8.5458
+Oyo,Atisbo,98581,9.8581
+Oyo,Egbeda,668543,66.8543
+Oyo,Ibadan North East,367240,36.724
+Oyo,Ibadan North West,103406,10.3406
+Oyo,Ibadan North,138048,13.8048
+Oyo,Ibadan South East,230668,23.0668
+Oyo,Ibadan South West,261598,26.1598
+Oyo,Ibarapa Central,77305,7.7305
+Oyo,Ibarapa East,97182,9.7182
+Oyo,Ibarapa North,78840,7.884
+Oyo,Ido,531509,53.1509
+Oyo,Irepo,83762,8.3762
+Oyo,Iseyin,279277,27.9277
+Oyo,Itesiwaju,58570,5.857
+Oyo,Iwajowa,79103,7.9103
+Oyo,Kajola,89013,8.9013
+Oyo,Lagelu,564982,56.4982
+Oyo,Ogbomosho North,281077,28.1077
+Oyo,Ogbomosho South,157331,15.7331
+Oyo,Ogo Oluwa,62500,6.25
+Oyo,Olorunsogo,70641,7.0641
+Oyo,Oluyole,449083,44.9083
+Oyo,Ona ara,286940,28.694
+Oyo,Orelope,84976,8.4976
+Oyo,Ori Ire,134257,13.4257
+Oyo,Oyo East,54996,5.4996
+Oyo,Oyo West,359852,35.9852
+Oyo,Saki East,67690,6.769
+Oyo,Saki West,345996,34.5996
+Oyo,Surulere,83792,8.3792
+Plateau,Barkin Ladi,164747,16.4747
+Plateau,Bassa,156917,15.6917
+Plateau,Bokkos,207533,20.7533
+Plateau,Jos East,39962,3.9962
+Plateau,Jos North,591220,59.122
+Plateau,Jos South,638304,63.8304
+Plateau,Kanam,147706,14.7706
+Plateau,Kanke,78068,7.8068
+Plateau,Langtang North,176967,17.6967
+Plateau,Langtang South,119852,11.9852
+Plateau,Mangu,255320,25.532
+Plateau,Mikang,79836,7.9836
+Plateau,Pankshin,145839,14.5839
+Plateau,Qua'an Pan,243570,24.357
+Plateau,Riyom,89839,8.9839
+Plateau,Shendam,288084,28.8084
+Plateau,Wase,215512,21.5512
+Rivers,Abua-Odual,79308,7.9308
+Rivers,Ahoada East,229579,22.9579
+Rivers,Ahoada West,71769,7.1769
+Rivers,Akuku Toru,17422,1.7422
+Rivers,Andoni,77341,7.7341
+Rivers,Asari-Toru,29774,2.9774
+Rivers,Bonny,107204,10.7204
+Rivers,Degema,65368,6.5368
+Rivers,Eleme,241244,24.1244
+Rivers,Emuoha,202552,20.2552
+Rivers,Etche,458612,45.8612
+Rivers,Gokana,155276,15.5276
+Rivers,Ikwerre,366636,36.6636
+Rivers,Khana,305502,30.5502
+Rivers,Obio-Akpor,1461953,146.1953
+Rivers,Ogba-Egbema-Ndoni,386531,38.6531
+Rivers,Ogu Bolo,15216,1.5216
+Rivers,Okrika,105225,10.5225
+Rivers,Omumma,117635,11.7635
+Rivers,Opobo-Nkoro,3460,0.346
+Rivers,Oyigbo,255102,25.5102
+Rivers,Port-Harcourt,482981,48.2981
+Rivers,Tai,54218,5.4218
+Sokoto,Binji,90211,9.0211
+Sokoto,Bodinga,341900,34.19
+Sokoto,Dange Shuni,428867,42.8867
+Sokoto,Gada,331188,33.1188
+Sokoto,Goronyo,191743,19.1743
+Sokoto,Gudu,131625,13.1625
+Sokoto,Gwadabawa,237215,23.7215
+Sokoto,Illela,240250,24.025
+Sokoto,Isa,170709,17.0709
+Sokoto,Kebbe,79882,7.9882
+Sokoto,Kware,226929,22.6929
+Sokoto,Rabah,149127,14.9127
+Sokoto,Sabon Birni,355039,35.5039
+Sokoto,Shagari,179389,17.9389
+Sokoto,Silame,93702,9.3702
+Sokoto,Sokoto North,253953,25.3953
+Sokoto,Sokoto South,361028,36.1028
+Sokoto,Tambuwal,249066,24.9066
+Sokoto,Tangaza,150851,15.0851
+Sokoto,Tureta,87420,8.742
+Sokoto,Wamakko,494374,49.4374
+Sokoto,Wurno,166592,16.6592
+Sokoto,Yabo,112113,11.2113
+Taraba,Ardo-Kola,129157,12.9157
+Taraba,Bali,371219,37.1219
+Taraba,Donga,208365,20.8365
+Taraba,Gashaka,97738,9.7738
+Taraba,Gassol,551775,55.1775
+Taraba,Ibi,112122,11.2122
+Taraba,Jalingo,319817,31.9817
+Taraba,Karim Lamido,298359,29.8359
+Taraba,Kurmi,91719,9.1719
+Taraba,Lau,163365,16.3365
+Taraba,Sardauna,276098,27.6098
+Taraba,Takum,317266,31.7266
+Taraba,Ussa,137198,13.7198
+Taraba,Wukari,466233,46.6233
+Taraba,Yorro,212386,21.2386
+Taraba,Zing,475688,47.5688
+Yobe,Bade,164042,16.4042
+Yobe,Bursari,137132,13.7132
+Yobe,Damaturu,262970,26.297
+Yobe,Fika,224548,22.4548
+Yobe,Fune,279803,27.9803
+Yobe,Geidam,211705,21.1705
+Yobe,Gujba,232536,23.2536
+Yobe,Gulani,208964,20.8964
+Yobe,Jakusko,169834,16.9834
+Yobe,Karasuwa,102879,10.2879
+Yobe,Machina,106158,10.6158
+Yobe,Nangere,202820,20.282
+Yobe,Nguru,160624,16.0624
+Yobe,Potiskum,435233,43.5233
+Yobe,Tarmuwa,129830,12.983
+Yobe,Yunusari,208197,20.8197
+Yobe,Yusufari,172083,17.2083
+Zamfara,Anka,147433,14.7433
+Zamfara,Bakura,156088,15.6088
+Zamfara,Birnin Magaji-Kiyaw,195742,19.5742
+Zamfara,Bukkuyum,237082,23.7082
+Zamfara,Bungudu,322815,32.2815
+Zamfara,Gummi,271521,27.1521
+Zamfara,Gusau,465871,46.5871
+Zamfara,Kaura Namoda,261690,26.169
+Zamfara,Maradun,181721,18.1721
+Zamfara,Maru,380664,38.0664
+Zamfara,Shinkafi,130267,13.0267
+Zamfara,Talata Mafara,190256,19.0256
+Zamfara,Tsafe,264298,26.4298
+Zamfara,Zurmi,251732,25.1732
